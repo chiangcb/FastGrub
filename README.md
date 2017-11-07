@@ -1,8 +1,8 @@
-#FastGrub
+# FastGrub
 
-In order to run this you will need Android Studio 3.0
+In order to run this you will need Android Studio 3.0. With Android Studio, navigate from File -> Open -> FastGrub Project
 
-If you are unable to run this, you may need to set up the virtual devices on your computer.
+If you are unable to run this once Gradle syncs the project, you may need to set up the virtual devices on your computer.
 
 Click on the Tools tab in Android Studio, way on the top. Then select Android from the pull down menu, then select AVD Manager to see your virtual devices (at this point you have none, so let's create one. When you see a screen that is titled "Select Hardware," choose Nexus 5 in Phone Category List. Click on next.
 
