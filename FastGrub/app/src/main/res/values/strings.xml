@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FastGrub</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="consumerKey">LFOPeoTpcr0wutB3mZL0uw</string>
+    <string name="consumerSecret">m-ZMtH7WqW4vZwuieB6XdJcEXBY</string>
+    <string name="token">gHdWP4jqb-G--hsgvZDo7TL7YD2MD6NZ</string>
+    <string name="tokenSecret">qATzRi-r1mWD0iVV7lb_-Y6fWiQ</string>
+    <string-array name="yelpcategories">
+        <item>All</item>
+        <item>American</item>
+        <item>Asian</item>
+        <item>Mexican</item>
+        <item>Mediterranean</item>
+        <item>Pizza</item>
+        <item>Noodles</item>
+        <item>Middle Eastern</item>
+        <item>Sushi</item>
+        <item>Italian</item>
+        <item>Seafood</item>
+        <item>Vegetarian</item>
+
+    </string-array>
+    <string name="test">Choose Category</string>
+</resources>
